@@ -6,5 +6,7 @@
 <h2> Day 1 </h2>
 <p><b> Neural Network </b></p>
 <p>Origin: Algorithms that try to mimic the brain. <br> Used in the 1980's and early 1990's.</p>
+<h2> Day 2 </h2>
+<p>List of different representation used in this course.</p>
 </body>
 </html>
